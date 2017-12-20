@@ -1,9 +1,3 @@
-# hackshef
-## structure of website
-- [ ] Splash / banner / register interest
-- [ ] a bit about
-- [ ] venue
-- [ ] schedule
-- [ ] team
-- [ ] sponsors
-- [ ] important info / contact / code of conduct / faq
+# Hashcode 2016 Hub Sheffield - Website
+
+This repository is the landing page for the hub hosted in Sheffield in 2016.
